@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: Training Kit
+  description: Open source courseware for Git and GitHub
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: CSUCortex/training-kit
+  x-cortex-tag: csucortex-training-kit
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: cx-interview-sandbox-3@proton.me
+    description: ""
